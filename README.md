@@ -1,6 +1,6 @@
 # 🔐 Криптошифр v4.0
 
-**Генерация уникальных шифров на основе числового ключа!**
+  Генерация уникальных шифров на основе числового ключа!
 
 [![Version](https://img.shields.io/badge/version-4.0.0-blue.svg)](https://github.com/boobser67/crypto-shifr)
 [![Python](https://img.shields.io/badge/python-3.7+-green.svg)](https://www.python.org/)
